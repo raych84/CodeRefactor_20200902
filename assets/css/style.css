@@ -20,9 +20,6 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
-}
 
 .header div {
     padding-top: 15px;
@@ -78,6 +75,7 @@ p {
 .benefits {
     margin-right: 20px;
     padding: 20px;
+    padding-bottom: 80px;
     clear: both;
     float: right;
     width: 20%;
@@ -189,12 +187,11 @@ p {
 }
 
 .footer {
-    padding: 30px;
+    padding: 10px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    font-size: 15px;
 }
 
-.footer h2 {
-    font-size: 20px;
-}
+ul{list-style: none;}
